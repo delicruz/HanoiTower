@@ -39,9 +39,9 @@ A simple **Tower of Hanoi** visualization in C++ using the legacy graphic.h libr
 1. Execute the compile program
 2. Enter the number of disks
 3. A graphic appears showing:
-     3 pegs in a row, with the disks on the left peg
-     Disks moving step by step to the right peg
-4. Press any key to close the window
+  - 3 pegs in a row, with the disks on the left peg
+  - Disks moving step by step to the right peg
+6. Press any key to close the window
 
 
 
